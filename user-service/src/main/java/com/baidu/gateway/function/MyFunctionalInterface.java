@@ -8,5 +8,5 @@ package com.baidu.gateway.function;
  */
 @FunctionalInterface
 public interface MyFunctionalInterface {
-     String show();
+    public String show();
 }
